@@ -18,19 +18,19 @@
     - title: PhD
       institution: Sardar Vallabhbhai National Institute of Technology, Surat
       year: 2013-18
-#      description:
-#        - QMC methods.
-#        - Low-dimensional.
-#        - title: E-H bilayer systems.
-#          contents:
-#            - Mass Asymmetric.
-#            - Mass Symmetric.
+    #      description:
+    #        - QMC methods.
+    #        - Low-dimensional.
+    #        - title: E-H bilayer systems.
+    #          contents:
+    #            - Mass Asymmetric.
+    #            - Mass Symmetric.
     - title: M.Sc
       institution: Maharaja Sayajirao University of Baroda, Vadodara
       year: 2007-09
       description:
-#        - First Class
-#        - 2
+    #        - First Class
+    #        - 2
     - title: B.Sc
       institution: South Gujarat University, Surat
       year: 2004-07
@@ -44,26 +44,26 @@
     - title: Assistant Professor
       institution: DBRAIT, Sri Vijyapuram
       year: 06.10.2025 - Present
-#      description:
-#        - Teaching 1.
-#        - Teaching 2.
-#        - title: Research.
-#          contents:
-#            - Research 1 Altermagnet.
-#            - Research 2 Moire Physics.
+    #      description:
+    #        - Teaching 1.
+    #        - Teaching 2.
+    #        - title: Research.
+    #          contents:
+    #            - Research 1 Altermagnet.
+    #            - Research 2 Moire Physics.
     - title: Research Associate
       institution: IISc, Bangalore
       year: 01.03.2024 - 30.09.25
-#      description:
-#        - Description 1.
-#        - Description 2.
+    #      description:
+    #        - Description 1.
+    #        - Description 2.
 
     - title: National Postdoc Fellow (NPDF)
       institution: IISc, Bangalore
       year: 28.02.2022 - 27.02.24
-#      description:
-#        - Description 1.
-#        - Description 2.
+    #      description:
+    #        - Description 1.
+    #        - Description 2.
     - title: RA-III
       institution: IISc, Bangalore.
       year: 01.07.2021 - 31.12.2021
@@ -71,7 +71,7 @@
     - title: RA-II
       institution: PU, Chandigarh
       year: 13.08.2019 - 30.06.2021
-#      description: e-e biwire system
+    #      description: e-e biwire system
 
     - title: Assistant Professor
       institution: Marwadi Unveristy, Rajkot
@@ -105,7 +105,7 @@
     - title: Superconductivity
       items:
         - Unconventional SCs
-#        - 
+#        -
 
 #- title: Other Interests
 #  type: list

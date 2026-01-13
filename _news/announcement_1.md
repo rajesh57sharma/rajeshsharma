@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement (_news/_1.md).
+A simple inline announcement (\_news/\_1.md).

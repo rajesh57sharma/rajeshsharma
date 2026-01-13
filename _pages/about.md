@@ -27,6 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am an Assistant Professor of Physics in the Department of Science and Humanities at Dr. B. R. Ambedkar Institute of Technology (DBRAIT), Sri Vijyapuram. My research interests lie in condensed matter physics, with a primary focus on unconventional superconductivity, moiré superlattices, and correlated quantum materials.
 
 My work combines analytical theory and advanced numerical techniques, including Density Functional Theory (DFT) and Quantum Monte Carlo (QMC) methods, to investigate electronic, magnetic, and topological properties of low-dimensional quantum systems. I am particularly interested in emergent phenomena arising from strong correlations and geometric effects in moiré-engineered materials.
