@@ -1,19 +1,18 @@
 ---
-
 layout: about
 title: About
 permalink: /
 subtitle: <a href='https://dbrait.andamannicobar.gov.in/#no-back-button'>Assistant Professor (Physics)</a>
 
 profile:
-align: right
-image: Rajesh.jpg
-image_circular: false # crops the image to make it circular
-more_info: >
-<p>Room GB-302, Department of Science & Humanities,</p>
-<p>DBRAIT, Pahargaon, Sri Vijyapuram 744103</p>
-<p>Phone: 9510477807</p>
-<p>Email: asstprof-phy-dbrait@and.nic.in</p>
+  align: right
+  image: Rajesh.jpg
+  image_circular: false
+  more_info: >
+    <p>Room GB-302, Department of Science & Humanities,</p>
+    <p>DBRAIT, Pahargaon, Sri Vijyapuram 744103</p>
+    <p>Phone: 9510477807</p>
+    <p>Email: asstprof-phy-dbrait@and.nic.in</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
