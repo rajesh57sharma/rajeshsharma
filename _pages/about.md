@@ -28,6 +28,6 @@ scrollable: true # adds a vertical scroll bar if there are more than 3 new posts
 limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor of Physics in the Department of Science and Humanities at Dr. B. R. Ambedkar Institute of Technology (DBRAIT), Sri Vijyapuram, A & N Islands. My research interests lie in condensed matter physics, with a primary focus on unconventional superconductivity, moiré superlattices, and correlated quantum materials.
+I am Dr. Rajesh Sharma, Assistant Professor in the Department of Science and Humanities at Dr. B.R. Ambedkar Institute of Technology (DBRAIT), Sri Vijaya Puram. My research uncovers fundamental properties of correlated quantum systems by integrating analytical theory with high-performance numerical frameworks.
 
-My work combines analytical theory and advanced numerical techniques, including Density Functional Theory (DFT) and Quantum Monte Carlo (QMC) methods, to investigate electronic, magnetic, and topological properties of low-dimensional quantum systems. I am particularly interested in emergent phenomena arising from strong correlations and geometric effects in moiré-engineered materials.
+I use Density Functional Theory (DFT) and Quantum Monte Carlo (QMC) to investigate electronic, magnetic, and topological signatures in low-dimensional systems. My integrated approach probes many-body interactions and quantum criticality beyond standard approximations.
