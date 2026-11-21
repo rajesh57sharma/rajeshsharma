@@ -152,19 +152,6 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% if entry.doi %}
-        {% capture entrytype %}
-          <em>
-            <a href="https://doi.org/{{ entry.doi | escape }}"
-               target="_blank"
-               rel="noopener noreferrer">
-              {{ entry.journal }}
-            </a>
-          </em>
-        {% endcapture %}
-      {% else %}
-        {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
-      {% endif %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
