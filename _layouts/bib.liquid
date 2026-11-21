@@ -152,7 +152,19 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% if entry.doi %}
+        {% capture entrytype %}
+          <em>
+            <a href="https://doi.org/{{ entry.doi | escape }}"
+               target="_blank"
+               rel="noopener noreferrer">
+              {{ entry.journal }}
+            </a>
+          </em>
+        {% endcapture %}
+      {% else %}
+        {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% endif %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
@@ -178,7 +190,6 @@
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entry.volume %} <strong>{{ entry.volume }}</strong>{% endif %}{% if entry.number %}({{ entry.number }}){% endif %}{% if entry.pages %}, {{ entry.pages }}{% endif %}{% if entryyear != "" %} ({{ entryyear | strip }}){% endif %}{% endcapture %}
-
     <div class="periodical">
       {{ periodical | strip }}
     </div>
