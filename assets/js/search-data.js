@@ -449,9 +449,9 @@ ninja.data = [{
           description: "National Postdoctoral Fellowship (NPDF), Indian Institute of Science, Bengaluru",
           section: "Projects",handler: () => {
               window.location.href = "/rajeshsharma/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-unconventional-superconductivity-in-moiré-superlattice-in-beyond-honeycomb-lattice",
+          title: 'Unconventional Superconductivity in Moiré Superlattice in Beyond Honeycomb Lattice',
+          description: "PM ECRG Project",
           section: "Projects",handler: () => {
               window.location.href = "/rajeshsharma/projects/2_project/";
             },},{
