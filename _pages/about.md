@@ -6,7 +6,7 @@ subtitle: <a href='https://dbrait.andamannicobar.gov.in/#no-back-button'>Assista
 
 profile:
   align: right
-  image: Rajesh.png
+  image: Rajesh
   image_circular: false
   more_info: >
     <p>Room GB-302, Department of Science & Humanities,</p>
