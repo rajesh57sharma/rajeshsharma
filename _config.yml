@@ -14,7 +14,7 @@ description: >
   topological materials, low-dimensional quantum systems, and computational physics 
   methods such as DFT and QMC
 footer_text: >
-  © 2025 Rajeshkumar Sharma. #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  © 2025 Rajeshkumar Sharma. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: superconductivity, electronic structure, magnetism, topological materials, DFT, QMC, condensed matter physics
@@ -90,8 +90,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Blog Name # blog_name will be displayed in your blog page
+blog_description: blog_description here
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
