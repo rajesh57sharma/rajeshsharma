@@ -1,4 +1,4 @@
-Write your biography here. (\_pages/PhD_1.md) You can put a picture in, too. The code is already in, just name your picture `Rajesh.jpg` and put it in the `img/` folder.
+Write your biography here. (\_pages/People_1.md) You can put a picture in, too. The code is already in, just name your picture `Rajesh.jpg` and put it in the `img/` folder.
 
 To change photo on right, go the (\_pages/profile)
 
