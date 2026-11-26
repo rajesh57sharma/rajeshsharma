@@ -28,7 +28,7 @@ scrollable: true # adds a vertical scroll bar if there are more than 3 new posts
 limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Dr. Rajesh Sharma, Assistant Professor in the Department of Science and Humanities at Dr. B.R. Ambedkar Institute of Technology (DBRAIT), Sri Vijaya Puram. 
+I am Dr. Rajesh Sharma, Assistant Professor in the Department of Science and Humanities at Dr. B.R. Ambedkar Institute of Technology (DBRAIT), Sri Vijaya Puram.
 
 My academic and research interests lie primarily in theoretical and computational condensed matter physics, particularly the electronic, magnetic, and topological properties of quantum materials.
 

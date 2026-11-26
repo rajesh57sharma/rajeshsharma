@@ -2,6 +2,6 @@
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "1.4.0",
     "prettier": "3.1.1",
-    "purgecss": "^7.0.2"
+    "purgecss": "^9.1.0"
   }
 }
